@@ -1,0 +1,26 @@
+{
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr)",
+  "name": "couchlegs",
+  "description": "setup multiple couch databases",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dominictarr/couchlegs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/couchlegs.git"
+  },
+  "main": "./couchlegs.js",
+  "scripts": {
+    "test": "meta-test test/*.js"
+  },
+  "engines": {
+    "node": "0.4.x"
+  },
+  "dependencies": {
+    "ctrlflow" : "0.0.x",
+    "curry" : "0.0.x"
+  },
+  "devDependencies": {
+    "meta-test": "0.0.x",
+    "it-is": "0.0.x"
+  }
+}
