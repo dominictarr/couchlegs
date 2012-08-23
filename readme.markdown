@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dominictarr/couchlegs.png)](http://travis-ci.org/dominictarr/couchlegs)
 # couchlegs
 
 the idea here is wrap some stuff to make it easy to initialize your couch for testing etc.
